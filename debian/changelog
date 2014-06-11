@@ -1,3 +1,9 @@
+synnefo (0.15.2-1~precise) precise; urgency=low
+
+  * New upstream version
+
+ -- Nikos Skalkotos <skalkoto@grnet.gr>  Wed, 11 Jun 2014 10:41:30 +0300
+
 synnefo (0.15~rc3-4~precise) precise; urgency=low
 
   * Source was wrong. Version was tagged at a wrong place
