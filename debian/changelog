@@ -1,26 +1,44 @@
-synnefo (0.15.2-1~precise) precise; urgency=low
+synnefo (0.16-1~wheezy) wheezy; urgency=low
 
   * New upstream version
 
- -- Nikos Skalkotos <skalkoto@grnet.gr>  Wed, 11 Jun 2014 10:41:30 +0300
+ -- Christos Stavrakakis <cstavr@grnet.gr>  Tue, 11 Nov 2014 08:51:33 +0000
 
-synnefo (0.15~rc3-4~precise) precise; urgency=low
-
-  * Source was wrong. Version was tagged at a wrong place
-
- -- Nikos Skalkotos <skalkoto@grnet.gr>  Mon, 23 Dec 2013 15:17:55 +0200
-
-synnefo (0.15~rc3-3~precise) precise; urgency=low
-
-  * Add missing python-setuptools dependency
-
- -- Nikos Skalkotos <skalkoto@grnet.gr>  Fri, 20 Dec 2013 18:38:58 +0200
-
-synnefo (0.15~rc3-1~precise) precise; urgency=low
+synnefo (0.16~rc3-1~wheezy) wheezy; urgency=low
 
   * New upstream version
 
- -- Nikos Skalkotos <skalkoto@grnet.gr>  Fri, 20 Dec 2013 17:50:31 +0200
+ -- Christos Stavrakakis <cstavr@grnet.gr>  Wed, 15 Oct 2014 11:25:04 +0000
+
+synnefo (0.16~rc2-1~wheezy) wheezy; urgency=low
+
+  * New upstream version
+
+ -- Christos Stavrakakis <cstavr@grnet.gr>  Tue, 30 Sep 2014 07:43:54 +0000
+
+synnefo (0.16~rc1-1~wheezy) wheezy; urgency=low
+
+  * New upsteam version
+
+ -- Christos Stavrakakis <cstavr@grnet.gr>  Mon, 08 Sep 2014 14:41:34 +0000
+
+synnefo (0.15.2-1~wheezy) wheezy; urgency=low
+
+  * New upstream version
+
+ -- Christos Stavrakakis <cstavr@grnet.gr>  Tue, 27 May 2014 13:05:35 +0300
+
+synnefo (0.15.1-1~wheezy) wheezy; urgency=low
+
+  * New upstream version
+
+ -- Christos Stavrakakis <cstavr@grnet.gr>  Thu, 15 May 2014 13:38:40 +0300
+
+synnefo (0.15-1~wheezy) wheezy; urgency=low
+
+  * New upstream version
+
+ -- Christos Stavrakakis <cstavr@grnet.gr>  Mon, 10 Mar 2014 14:04:56 +0200
 
 synnefo (0.14.10-1~wheezy) wheezy; urgency=low
 
@@ -145,6 +163,20 @@ synnefo (0.12.5-1) stable; urgency=low
   [ Dimitris Aragiorgis ]
 
  -- Dimitris Aragiorgis <dimara@grnet.gr>  Fri, 04 Jan 2013 14:46:35 +0200
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
